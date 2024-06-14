@@ -1,0 +1,12 @@
+{
+  "name": "mini-canvas",
+  "version": "1.0.0",
+  "description": "🎉 小程序中导出图片",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

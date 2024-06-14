@@ -1,0 +1,2 @@
+<canvas type="2d" id="canvas" style="width: 750rpx; height: 80vh;"></canvas>
+<button bind:tap="exportData" type="default">导出图像</button>
